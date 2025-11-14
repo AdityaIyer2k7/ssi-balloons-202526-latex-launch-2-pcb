@@ -1,4 +1,4 @@
-26636373018602040
+26638135942367889
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70741,6 +70741,13 @@ Flipper Zero
 0
 18
 18
+Module
+GY-521 MPU6050
+
+
+0
+8
+8
 Module
 Google_Coral_SMT_TPU_Module
 Google_Coral_SMT_TPU_Module (https://coral.ai/static/files/Coral-Accelerator-Module-datasheet.pdf)
