@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Latex Launch 2 Footprints")(type "KiCad")(uri "${KIPRJMOD}/Latex Launch 2 Footprints")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adafruit_rfm96w_lora_breakout")(type "KiCad")(uri "${KIPRJMOD}/Latex Launch 2 Footprints/adafruit_rfm96w_lora_breakout.kicad_sym")(options "")(descr ""))
+)

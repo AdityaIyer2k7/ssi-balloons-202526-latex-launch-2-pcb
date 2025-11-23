@@ -447,7 +447,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Latex Launch 2 Footprints"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -480,7 +482,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "/EN_GPS"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {

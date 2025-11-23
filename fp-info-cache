@@ -1,4 +1,4 @@
-26638135942367889
+26646956769005543
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70552,6 +70552,48 @@ Yellow 5381 Series LED
 0
 2
 2
+Latex Launch 2 Footprints
+Adafruit_BMP280_Breakout
+
+
+0
+9
+8
+Latex Launch 2 Footprints
+Adafruit_GPS_Breakout
+
+
+0
+11
+10
+Latex Launch 2 Footprints
+Adafruit_HTU21DF_Breakout
+
+
+0
+7
+6
+Latex Launch 2 Footprints
+Adafruit_MicroSD_Breakout
+
+
+0
+11
+11
+Latex Launch 2 Footprints
+Adafruit_RFM96W_LoRa_Breakout
+
+
+0
+15
+15
+Latex Launch 2 Footprints
+GY-521 MPU6050
+
+
+0
+8
+8
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -70657,13 +70699,6 @@ ESP8266 WiFi microcontroller
 0
 20
 20
-Module
-Adafruit_MicroSD_Breakout
-
-
-0
-11
-11
 Module
 Arduino_Nano
 Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
