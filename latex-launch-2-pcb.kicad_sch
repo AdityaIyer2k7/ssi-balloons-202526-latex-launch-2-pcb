@@ -3827,6 +3827,16 @@
 		)
 		(uuid "256b874a-5bb0-48e7-aa2b-501336bbc18c")
 	)
+	(label "CS_BMP280"
+		(at 55.88 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "302a949a-93cd-473e-b729-88d5f18cfaee")
+	)
 	(label "I2C_SCL"
 		(at 149.86 68.58 180)
 		(effects
@@ -3896,6 +3906,16 @@
 			(justify right bottom)
 		)
 		(uuid "4991ba7c-f767-4bdf-b9cf-3fc1d66103c5")
+	)
+	(label "CS_RFM96W"
+		(at 55.88 53.34 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4cc491cb-0e90-4b35-9516-7ac43cbff74f")
 	)
 	(label "CS_SD"
 		(at 55.88 43.18 180)
@@ -3977,16 +3997,6 @@
 		)
 		(uuid "8755db21-436b-438f-ac3a-b95fe11912ab")
 	)
-	(label "CS_BMP280"
-		(at 55.88 53.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "880221bb-ef95-4558-87e4-0225298d4e14")
-	)
 	(label "CS_SD"
 		(at 87.63 149.86 180)
 		(effects
@@ -4066,16 +4076,6 @@
 			(justify right bottom)
 		)
 		(uuid "be674b93-0d0b-467d-83a1-396feff235e7")
-	)
-	(label "CS_RFM96W"
-		(at 55.88 50.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c8b73529-61d6-43dd-8e4c-d314325385a6")
 	)
 	(label "Tx_iso"
 		(at 29.21 67.31 0)
