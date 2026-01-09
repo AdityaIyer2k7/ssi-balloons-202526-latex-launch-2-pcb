@@ -489,7 +489,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "out/gbr/",
+      "plot": "out/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "out/stl/latex-launch-2-pcb.stl",
